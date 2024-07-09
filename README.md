@@ -1,0 +1,7 @@
+- 👋 Olá, sou @RhyianmDEV ... meu nome real é Ryan Mendes
+- 👀 Estou interessado em conseguir ... um emprego ou ganhar dinheiro com programação
+- 🌱 Atualmente estou aprendendo ... Python, C# e Javascript, e já tenho conhecimento em HTML, CSS, MySQL e um pouco de PHP
+- 💞️ Procuro colaborar em ... Projetos web e de desenvolvimento de jogos
+- 📫 Como entrar em contato comigo ... E-mail (ryan2006braga@gmail.com) instagram (@sourhyianm) whatsapp (92994081399)
+- 😄 Pronomes: ... ele/dele
+- ⚡ Curiosidade: ... Tenho diploma em Técnico de Informatica com 1200 horas de participação e estou cursando o segundo periodo da minha faculdade de Engenharia de Software, além de acompanhar alguns minicursos online
